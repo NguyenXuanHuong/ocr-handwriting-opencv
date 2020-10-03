@@ -1,0 +1,1 @@
+Note: Unlike Tesseract, EasyOCR can work with OpenCV's default BGR colorchannel ordering.Therefore, we do not need to swap color channels after loadingthe image.
